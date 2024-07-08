@@ -2,7 +2,7 @@
 <h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/iambhupesh/" target="_blank" rel="noreferrer">Bhupesh</a> is a Passionate Cloud & DevOps Engineer From India, Working On Cloud And DevOps. <br>Feel Free To Reach Out For Any Freelance Projects. </font></h3>
 
 
-<img align="right" alt="GIF" src="http://studiopixel.in/wp-content/uploads/2017/11/18a4949fc9c8067172d3b96e302e7097.gif" width="600" height="500" />
+<img align="right" alt="GIF" src="http://studiopixel.in/wp-content/uploads/2017/11/18a4949fc9c8067172d3b96e302e7097.gif" width="500" height="500" />
 
 <h3 align="left">Connect with me </h3>
 <p align="left">
